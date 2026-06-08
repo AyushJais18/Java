@@ -12,7 +12,7 @@ class test14{
     for (int i=1; i<factorial; i++)
 
     {
-    factorial = factorial*i    
+    factorial = factorial*i    ;
  } 
 }
 }
