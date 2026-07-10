@@ -1,0 +1,40 @@
+Polymorphism 
+poly = Many 
+morphism = forms
+
+types of Polymorphism
+
+1. compile time Polymorphism.also called early binding / static polymorphism
+2. run time polymorphism. also called late binding/ dynamic polymorphism
+
+compile time polymorphism : -
+
+overloading 
+3 types of overloading
+1. method overloading
+done explicitly by programmer
+2. constructor overloading
+done explicitly by programmer
+3. Operator overloading 
+implicitly by jvm
+
+
+method overloading 
+Class A {
+    void m1()
+    {
+        -------
+        ------
+
+    }
+
+    void m2()
+    {
+        ------
+        ------
+        ------
+    }
+}
+
+1. No. of arguments are different.
+2. if no. of arguments are same but datatype should be different.

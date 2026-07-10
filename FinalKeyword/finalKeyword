@@ -1,0 +1,4 @@
+// final keyword is modifier which is used to variables , method and class.
+// if we put final in front of any class then all the method in the class will be final and variable ko final krne ke liye hamesha final lgana pdega and method hamesha final rehti hai.
+// its best for security wise
+// it affects oops , polymorphies(overiding) and inheritance 

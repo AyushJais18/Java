@@ -9,7 +9,7 @@ public class reversestring{
         String name = sc.next();
         System.out.println("Original Name" + name);
         String rev = " ";
-        for(int i = name.length - 1; i>= 0 ; i--){
+        for(int i = name.length() - 1; i>= 0 ; i--){
             rev = rev + name.charAt(i);
         }
         System.out.println("rev string" + rev);
