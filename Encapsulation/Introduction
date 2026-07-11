@@ -1,0 +1,9 @@
+Encapsulation :-
+
+1. Binding the data in single unit / wrapping the data 
+
+2. it has private  data member.
+
+3. to access private member by setter and getter methods.
+
+ 
